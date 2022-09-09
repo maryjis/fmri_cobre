@@ -1,2 +1,2 @@
 # fmri_cobre
-Deep learning model for predicting Schizophrenia  vs Control on COBRE dataset. 
+Deep learning models for predicting Schizophrenia  vs Control on COBRE dataset. 
